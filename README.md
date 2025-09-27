@@ -3,13 +3,13 @@
 🚀 Data Analyst | Python Developer | Aspiring AI/ML Engineer  
 
 Welcome to my GitHub!  
-I’m an **analytical and detail-oriented Data Analyst & Python Developer** with a strong foundation in **SQL, Python, and Data Science**. Coming from a **Chemistry background**, I bring a unique analytical mindset to solving complex data problems. Currently, I’m advancing my skills in **Deep Learning, Object-Oriented Programming, and Computer Vision**.  
+I’m an **analytical and detail-oriented Data Scientist & Python Developer** with a strong foundation in **SQL, Python, Data Science and AI/ML**. Coming from a **Chemistry background**, I bring a unique analytical mindset to solving complex data problems. Currently, I’m advancing my skills in **Deep Learning, Neural Networks, and Computer Vision**.  
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 B.Sc. Chemistry, University of Mumbai (2027)  
-- 📊 Skilled in **data cleaning, visualization, EDA, and database management**  
+- 📊 Skilled in **data cleaning, visualization, EDA, AWP, and database management**  
 - 💡 Strong problem-solver with experience in **SQL databases, Python workflows, and BI tools**  
 - 🌱 Currently learning **Deep Learning, Machine Learning, and AI applications**  
 - 🏆 Transitioned successfully from **Chemistry → Data Science & AI/ML Engineering**  
