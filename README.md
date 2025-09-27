@@ -1,5 +1,5 @@
-# Dilss
-# Hi, I'm Dilshaad Khan 👋  
+# README
+# Hey! I'm Dilshaad 👋  
 🚀 Data Analyst | Python Developer | Aspiring AI/ML Engineer  
 
 Welcome to my GitHub!  
