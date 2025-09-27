@@ -1,6 +1,6 @@
 # README
 # Hey! I'm Dilshaad 👋  
-🚀 Data Analyst | Python Developer | Aspiring AI/ML Engineer  
+🚀 Data Scientist | Python Developer | Aspiring AI/ML Engineer  
 
 Welcome to my GitHub!  
 I’m an **analytical and detail-oriented Data Scientist & Python Developer** with a strong foundation in **SQL, Python, Data Science and AI/ML**. Coming from a **Chemistry background**, I bring a unique analytical mindset to solving complex data problems. Currently, I’m advancing my skills in **Deep Learning, Neural Networks, and Computer Vision**.  
@@ -17,7 +17,7 @@ I’m an **analytical and detail-oriented Data Scientist & Python Developer** wi
 ---
 
 ## 🛠️ Core Skills
-- **Programming & Tools:** Python, SQL, Excel, Power BI, Tableau, Pandas, NumPy, Matplotlib  
+- **Programming & Tools:** Python, SQL, Excel, Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn, Deep Learning, NLP 
 - **Data Analytics:** Data Cleaning, Visualization, Exploratory Data Analysis (EDA)  
 - **Database Management:** MySQL, SQL Workbench  
 - **Concepts:** Data Structures, OOP, Machine Learning (basics), Deep Learning (in progress)  
@@ -49,4 +49,4 @@ I’m an **analytical and detail-oriented Data Scientist & Python Developer** wi
 
 ---
 
-⭐️ *“Turning raw data into meaningful stories.”*  
+⭐️ *“Data is the new oil, and I love building engines that run on it.”*
